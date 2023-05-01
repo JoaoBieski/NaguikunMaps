@@ -144,6 +144,7 @@ main {
         align-items: center;
         justify-content: space-around;
         padding: 1.5rem;
+        margin-left: 1rem;
     }
 
     .header-menu {
@@ -204,4 +205,11 @@ main {
         margin-right: 1rem;
     }
 
+    footer {
+        margin-top: 6.9rem;
+        padding: 2rem;
+        border-top: 0.4px solid #FFF2E7;
+        margin-left: 1rem;
+    }
+    
   }
