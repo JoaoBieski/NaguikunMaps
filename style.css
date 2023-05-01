@@ -144,12 +144,12 @@ main {
         align-items: center;
         justify-content: space-around;
         padding: 1.5rem;
-        margin-left: 1rem;
     }
 
     .header-menu {
         display: flex;
         gap: 1rem;
+        text-align: -webkit-center;
     }
     
     .content-main-write-title {
